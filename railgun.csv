@@ -8,4 +8,5 @@
 "K1,K2,K3","Fujitsu_FTR-LYAA005x","https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf","Relay_THT:Relay_SPST-NO_Fujitsu_FTR-LYAA005x_FormA_Vertical","3",""
 "L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15","L","","","15",""
 "R1","R","","","1",""
-"SW1","SW_Push","","Button_Switch_SMD:SW_SP3T_PCM13","1",""
+"SW1","","","Button_Switch_SMD:SW_SP3T_PCM13","1",""
+"mh","","","longest wire you can find","3",""
