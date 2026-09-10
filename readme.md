@@ -64,4 +64,13 @@ do the amount of turns you got on these with the topmost wire you soldered to th
 ![wraparoundwire1](https://github.com/alsono/cailranon/blob/main/resources/wraparoundwire1.png) <br>
 drip down superglue onto each coil to both lock it in place and make sure it doesn't short out if the wax layer is burnt off due to usage <br>
 now after running it back through the same hole solder it to this part <br>
-![coil1torelay](https://github.com/alsono/cailranon/blob/main/resources/coil2relay.png) 
+![coil1torelay](https://github.com/alsono/cailranon/blob/main/resources/coil2relay.png) <br>
+repeat the above 2 more times for the other 2 wires (don't put the coils on top of eachother i meant put wire 2 on every 3rd spot without wire already starting from the 2nd)
+# qna
+"why don't you hold stuff down with bolts?" gun explodes <br>
+"whys there no relay module in the demonstrations?" i could not for the life of me find one and i've spent too much on this project to make one 
+## stuff for nerds
+the schematic used you can find it in pcb <br>
+![]()<br>
+the pcb design wiring <br>
+![]()<br>
