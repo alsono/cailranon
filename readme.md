@@ -25,7 +25,7 @@ setup steps:
 - press the checkmark on the top left and wait for it flash
 ### printing
 first set (or order) these parts to 3d print while you work on the hw:
-- the main body with the cover
+- the main body with the cover <br>
 ![mainbody](https://github.com/alsono/cailranon/blob/main/resources/gun.webp) <br>
 - the barrel (if your printer is too small you can split it into 2 and glue it together) <br>
 ![barrel](https://github.com/alsono/cailranon/blob/main/resources/barrel.webp) <br>
