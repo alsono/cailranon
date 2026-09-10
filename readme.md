@@ -71,6 +71,6 @@ repeat the above 2 more times for the other 2 wires (don't put the coils on top 
 "whys there no relay module in the demonstrations?" i could not for the life of me find one and i've spent too much on this project to make one 
 ## stuff for nerds
 the schematic used you can find it in pcb <br>
-![]()<br>
+![dsa](https://github.com/alsono/cailranon/blob/main/resources/schem.webp)<br>
 the pcb design wiring <br>
-![]()<br>
+![cbp](https://github.com/alsono/cailranon/blob/main/resources/pcb2d.webp)<br>
