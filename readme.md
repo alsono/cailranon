@@ -74,3 +74,6 @@ the schematic used you can find it in pcb <br>
 ![dsa](https://github.com/alsono/cailranon/blob/main/resources/schem.webp)<br>
 the pcb design wiring <br>
 ![cbp](https://github.com/alsono/cailranon/blob/main/resources/pcb2d.webp)<br>
+# demo links
+- [onshape 3d model](https://cad.onshape.com/documents/b5d65689f200aad3e485e3da/w/5ed7d26aa7ff4d9a5b7cf364/e/11ed56f53a2aa773af70aec3)
+- [pcb](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Falsono%2Fcailranon%2Fblob%2Fmain%2Fpcb%2Frailgun.kicad_pro)
