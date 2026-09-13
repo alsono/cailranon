@@ -14,7 +14,8 @@ load it up like a musket with the metal pellets they use for slingshots, aim at 
 - hot glue gun (bear with me here)
 - acess to a 3d printer (you can use jlc3dp)
 ## parts you'll need
-check out the bom  (bill of materials)
+- check out the bom  (bill of materials)
+- order the pcb from jlcpcb.com using the gerber.rar in production files
 ## how to build
 ## software
 setup steps:
