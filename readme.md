@@ -1,5 +1,9 @@
 # introduction
-a little wee railgun design i've came up with (theres a small chance this thing explodes every time you shoot with it) <br>
+This is an arduino nano powered hand held rail gun that runs on a 24V (12vx2) battery thats somewhat simple to use <br>
+this took me more than it should have since i'm generally learning cad (around 9 hours) <br>
+24v battery should be charged with crocodile clips as its hooked up via relay <br>
+system works on a 5V battery on the side that must be removed before charging <br>
+it has a cooldown of 5 seconds after every shot to avoid overheating the coils <br>
 ![fih](https://github.com/alsono/cailranon/blob/main/resources/fullbuild.webp) <br>
 # how to use
 load it up like a musket with the metal pellets they use for slingshots, aim at your target and press the trigger, it should make a loud ass beep as it shoots <br>
