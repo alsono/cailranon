@@ -7,6 +7,9 @@ load it up like a musket with the metal pellets they use for slingshots, aim at 
 - NOT killing people 
 - shooting at soda cans
 - killing tomatoes/ref
+# how it works
+think of it like a 3 step motor, the power cycles between 3 coils in the gun barrel infront of the projectile pulling it forward <br> 
+and then cycling to the next one right away <br>
 # warning i am not legally accounted with any harm caused from this outside its intended use or during malfunction
 ## tools you'll need
 - soldering iron and solder
