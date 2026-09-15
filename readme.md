@@ -1,5 +1,5 @@
 # introduction
-a little wee railgun design i've came up with theres a 5% chance this thing explodes every time you shoot with it <br>
+a little wee railgun design i've came up with (theres a small chance this thing explodes every time you shoot with it) <br>
 ![fih](https://github.com/alsono/cailranon/blob/main/resources/fullbuild.webp) <br>
 # how to use
 load it up like a musket with the metal pellets they use for slingshots, aim at your target and press the trigger, it should make a loud ass beep as it shoots <br>
